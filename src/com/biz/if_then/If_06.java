@@ -4,7 +4,7 @@ public class If_06 {
 
 	public static void main(String[] args) {
 
-		int i=7;
+		int i=100;
 		int index =2;
 		for(index=2;index<i;index++) {
 			if(i%index==0) {
